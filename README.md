@@ -127,9 +127,7 @@ Project Link: [https://github.com/abhijayax/burnout-drift-detector](https://gith
 ⭐ **Star this repo if you found it helpful!**
 
 Made with ❤️ and React
-```
 
-5. **Save it** (Cmd+S)
 
 ---
 
