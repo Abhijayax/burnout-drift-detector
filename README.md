@@ -18,13 +18,6 @@ An interactive web application that detects behavioral drift patterns indicating
 - 🎯 **Interpretable Metrics** - Every score has clear meaning
 - 💡 **Change Point Detection** - Identifies significant pattern shifts
 
-## 🖼️ Screenshots
-
-![Dashboard](public/screenshots/dashboard.png)
-*Main dashboard showing 12 weeks of behavioral drift analysis*
-
-![Drift Chart](public/screenshots/drift-chart.png)
-*Drift score timeline with risk indicators*
 
 ## 🚀 Quick Start
 
