@@ -35,7 +35,7 @@ An interactive web application that detects behavioral drift patterns indicating
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/burnout-drift-detector.git
+git clone https://github.com/abhijayax/burnout-drift-detector.git
 cd burnout-drift-detector
 
 # Install dependencies
@@ -97,18 +97,6 @@ Based on 12 weeks of simulated behavioral data:
 4. **React Performance** - useMemo for optimizing heavy calculations
 5. **Domain Knowledge** - Understanding burnout psychology shaped design
 
-## 🔮 Future Enhancements
-
-- [ ] CSV data import for personal activity logs
-- [ ] Export weekly reports as PDF
-- [ ] Personalized baseline calibration per user
-- [ ] Mobile app version
-- [ ] Dark mode support
-- [ ] Email notification system
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
 
 ## 🙏 Acknowledgments
 
@@ -122,11 +110,6 @@ Abhijaya Singh - abhijayax@gmail.com
 
 Project Link: [https://github.com/abhijayax/burnout-drift-detector](https://github.com/abhijayax/burnout-drift-detector)
 
----
-
-⭐ **Star this repo if you found it helpful!**
-
-Made with ❤️ and React
 
 
 ---
